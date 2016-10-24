@@ -1,0 +1,13 @@
+menu = {} # Empty dictionary
+menu['Chicken Alfredo'] = 14.50 # Adding new key-value pair
+print menu['Chicken Alfredo']
+
+menu['Smash Potato']= 4.5
+menu['Sweet and Sour Fish']= 19.5
+menu['traditional Tofu']= 9.5
+
+
+
+
+print "There are " + str(len(menu)) + " items on the menu."
+print menu
