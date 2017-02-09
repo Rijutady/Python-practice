@@ -52,3 +52,5 @@ def get_class_average(students):
     print results
     return average(results) 
         
+print get_class_average(students)
+print get_letter_grade(students)
